@@ -1,2 +1,2 @@
 thiS is a new file
-New line
+New line.
